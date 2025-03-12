@@ -193,7 +193,7 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
-    <script>
+    {{-- <script>
         // Logout functionality
         document.getElementById('logoutBtn').addEventListener('click', function(e) {
             e.preventDefault();
@@ -236,6 +236,6 @@
                 }
             }
         });
-    </script>
+    </script> --}}
 </body>
 </html>
